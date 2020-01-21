@@ -20,6 +20,7 @@
 * Mesa 2 Tablet
 
 ![](/images/antennas.png)
+*Fig.1: Antenna types*
 
 ### Assembly
 
@@ -30,6 +31,34 @@
 * Start the tablet and the XPAD Software
 
 ![](/images/head_antenna.png)
+*Fig.2: DGPS Head with modile antenna in the UMTS Port*
+
+
+![](/images/head_on_rod.png)
+*Fig.3: Fully assembled DGPS Head on rod with fully charged battery pack*)
+
+
+
+### Configuring XPAD in Rover only mode
+
+XPAD starts with the Job Screen. Choose a job or create a new one and you get to the main menu.
+
+![](/images/screenshot/mainmenu.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
