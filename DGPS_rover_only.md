@@ -32,13 +32,9 @@
 * Start the tablet and the XPAD Software
 
 ![](/images/head_antenna.png)
-
-*Fig.2: DGPS Head with modile antenna in the UMTS Port*
-
-
 ![](/images/head_on_rod.png)
 
-*Fig.3: Fully assembled DGPS Head on rod with fully charged battery pack*)
+*Fig.2: DGPS Head with modile antenna in the UMTS Port and assembled DGPS Head on rod with fully charged battery pack*
 
 
 
@@ -51,6 +47,8 @@ control.
 
 ![](/images/screenshots/mainmenu.png)
 ![](/images/screenshots/settingsmenu.png)
+
+*Fig.3: Main menu and settings menu of XPAD*
 
 ### Devices
 
@@ -71,40 +69,10 @@ This takes around 1 minute to configure.
 ![](/images/screenshots/devices01.png)
 ![](/images/screenshots/devices02.png)
 
+*Fig.4: Devices menu*
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
