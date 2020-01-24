@@ -20,3 +20,7 @@ Attention! All operations with the Total Station (TS) should be gentle. Pack TS 
 * It is a bad practice to center the level during measurement, thus, try to be gentle when touching the station 
 
 Turn on the power button; it is set up now.
+
+### References
+https://www.instructables.com/id/How-to-Set-Up-a-Total-Station-to-Conduct-Surveying/
+https://www.slideshare.net/justintgabbard/how-to-set-up-a-total-station-20421558
