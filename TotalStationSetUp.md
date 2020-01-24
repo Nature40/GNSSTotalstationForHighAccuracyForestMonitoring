@@ -1,6 +1,6 @@
 Attention! All operations with the Total Station (TS) should be gentle. Pack TS to the case if you move it from one point to another.
 
-# Trinode
+# Tripod
 
 * Release clamps and extend tripod's legs to a suitable height
 * Tighten the clamps
