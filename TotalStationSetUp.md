@@ -23,4 +23,5 @@ Turn on the power button; it is set up now.
 
 ### References
 https://www.instructables.com/id/How-to-Set-Up-a-Total-Station-to-Conduct-Surveying/
+
 https://www.slideshare.net/justintgabbard/how-to-set-up-a-total-station-20421558
