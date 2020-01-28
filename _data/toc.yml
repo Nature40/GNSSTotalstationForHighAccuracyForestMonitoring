@@ -1,0 +1,33 @@
+
+- title: Home
+  url: /
+- title: Documentation
+  url: docs
+  links:
+    - title: Rover Mode
+      url: DGPS-Rover
+    - title: Rover and Base
+      url: DGPS-Rover-Base  
+    - title: Totalstation Setup
+      url: Totalstation-Setup
+      children:
+        - title: Setup with DGPS Rover
+          url: Totalstation-Rover
+    - title: Totalstation Measures
+      url: Totalstation-Rover
+      children:
+        - title: Totalstation Reflector
+          url: Totalstation-Reflector
+        - title: Totalstation Reflectorless
+          url: Totalstation-Reflectorless  
+- title: Misc
+  url: /
+  children:
+    - title: Tags Page
+      url: "tags"
+    - title: "About"
+      url: "about"
+    - title: "News"
+      url: "news"
+
+
