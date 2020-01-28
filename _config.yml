@@ -30,7 +30,7 @@ url: "https://Nature40.github.io" # the base hostname & protocol for your site
 site_url: "https://Nature40.github.io/GPS-Documentation"
 
 # Social (First three Required)
-repo: "https://github.com/Ludwigm6/probeGPS"
+repo: "https://github.com/Nature40/GPS-Documentation"
 github_user: "Nature40"
 github_repo: "GPS-Documentation"
 
