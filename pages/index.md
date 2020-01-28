@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Docsy Jekyll Theme
+title: Nature 4.0 DGPS and Totalstation
 permalink: /
 ---
 

@@ -18,9 +18,9 @@ title: Nature 4.0 GPS & Survey Documentation
 email: marvin.ludwig@geo.uni-marburg.de
 author: Marvin Ludwig
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Tutorials to set up the Differtial GPS and Totalstation.
+  Remarks and Explanations about measurements with the devices
+  for the Nature 4.0 field survey 2020.
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "/GPS-Documentation" # the subpath of your site, e.g. /blog
