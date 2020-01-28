@@ -11,3 +11,5 @@ HowTo-s on:
 * Total Station Terrain
 * Total Station Reflector Trees
 * Total Station Reflectorless Trees
+
+A complete manual can be found [here](https://www.i3map.fr/fr/index.php?controller=attachment&id_attachment=31).
