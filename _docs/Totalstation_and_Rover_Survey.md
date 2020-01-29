@@ -58,12 +58,12 @@ Total station (TS or TPS) can be used with a single rover or rover-base DGPS com
 
 ![ts_meas_Screenshot_2020-01-28-15-50-20.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-15-50-20.png)
 
-* For Free station, Instr. Height makes no sence, thus, go Next
+* For Free station, Instr. Height makes no sence (only if the ground point elevation will be used), thus, go Next
 
 ![ts_meas_Screenshot_2020-01-28-15-50-44.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-15-50-44.png)
 
 
-* Specify reference points (minimum two points are required, tree recommended)
+* Specify reference points (minimum two points are required, three recommended)
 
 ![ts_meas_Screenshot_2020-01-28-15-51-32.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-15-51-32.png)
 
@@ -83,23 +83,27 @@ Total station (TS or TPS) can be used with a single rover or rover-base DGPS com
 
 ![ts_meas_Screenshot_2020-01-28-16-12-57.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-16-12-57.png)
 
-
-## Shooting/Measuring
-
 * Set the Antenna height (correct by default)
 
 ![ts_meas_Screenshot_2020-01-28-16-13-11.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-16-13-11.png)
 
-
-
+* Make sure that the horizontal and vertical errors are appropriate, press Measure. Repeate it for several reference points
 
 ![ts_meas_Screenshot_2020-01-28-16-13-42.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-16-13-42.png)
 
 
+## Shooting/Measuring
+
+
+* In Survey tab, press survey points, by default measures are conducted with the prism
+
+
 ![ts_meas_Screenshot_2020-01-28-16-19-20.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-16-19-20.png)
 
+* Tap the top-left prism icon and chose the reflectorless mode for massive shooting, tap the laser pointer to speed up the measurement
 
 ![ts_meas_Screenshot_2020-01-28-16-20-30.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-16-20-30.png)
 
+* Use Measure and Store for massive shooting, modify the point name (use conventional prefixes and predefined codes) 
 
 ![ts_meas_Screenshot_2020-01-28-16-21-00.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-16-21-00.png)
