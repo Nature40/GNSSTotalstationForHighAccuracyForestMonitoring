@@ -87,7 +87,7 @@ Total station (TS or TPS) can be used with a single rover or rover-base DGPS com
 
 ![ts_meas_Screenshot_2020-01-28-16-13-11.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-16-13-11.png)
 
-* Make sure that the horizontal and vertical errors are appropriate, press Measure. Repeate it for several reference points
+* Make sure that the horizontal and vertical errors are appropriate, press Measure. Change position of the prism and repeate the procedure
 
 ![ts_meas_Screenshot_2020-01-28-16-13-42.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-16-13-42.png)
 
