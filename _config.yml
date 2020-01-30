@@ -27,10 +27,10 @@ baseurl: "/GPS-Documentation" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
 url: "https://Nature40.github.io" # the base hostname & protocol for your site
-site_url: "https://Nature40.github.io/GPS-Documentation"
+site_url: "https://Nature40.github.io/GPS-TotalStation-Documentation"
 
 # Social (First three Required)
-repo: "https://github.com/Nature40/GPS-Documentation"
+repo: "https://github.com/Nature40/GPS-TotalStation-Documentation"
 github_user: "Nature40"
 github_repo: "GPS-Documentation"
 
