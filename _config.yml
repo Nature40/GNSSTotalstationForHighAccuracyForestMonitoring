@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nature 4.0 Survey Documentation on DGPS & Total Station (TS) 
+title: Nature 4.0 Survey Documentation
 email: marvin.ludwig@geo.uni-marburg.de
 author: Marvin Ludwig
 description: > # this means to ignore newlines until "baseurl:"
