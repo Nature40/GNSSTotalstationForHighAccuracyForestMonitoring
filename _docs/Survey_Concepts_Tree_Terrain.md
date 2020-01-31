@@ -14,7 +14,7 @@ Before starting shooting, TS has to be oriented. At least three points are recom
 
 If GPS/GSM signal is good, use Rover to orient the station (three points are recommended). Notice the error rate. An error of up to 5 cm is acceptable. Notice that with the prism, you can reach a few kilometers. Thus, try far areas visible from TS that possibly have a better signal.
 
-If the GPS/GSM signal is no satisfactory, use benchmarks to orient TS. Thee or two (if TS is set up on a benchmark) benchmarks should be visible from TS. Measure the required benchmarks from Survey/StationSetup menu (see Totalstation_and_Rover_Survey.md). 
+If the GPS/GSM signal is no satisfactory, use benchmarks to orient TS. Thee or two (if TS is set up on a benchmark) benchmarks should be visible from TS. Measure the required benchmarks from Survey/StationSetup menu (see [this](Totalstation_and_Rover_Survey.md) page). 
 
 
 If the GPS/GSM signal is no satisfactory and benchmarks are not available, try to detect the nearest area with a satisfactory signal. Place TS somewhere in between of the shooting area and the base GPS station. Make sure you can see Rover (while it has a satisfactory error rate, which is up to 3 cm) from TS. Orient TS with Rover. Try to reach the closest area visible from the area of interest. Measure new benchmarks using the prism. 
