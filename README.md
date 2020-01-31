@@ -1,6 +1,6 @@
 # Survey
 geomax-guide: Documentation on DGPS and Total Station
-Access to the webpage: [nature40.github.io/GPS-Documentation](https://nature40.github.io/GPS-TotalStation-Documentation)
+Access to the webpage: [nature40.github.io/GPS-TotalStation-Documentation](https://nature40.github.io/GPS-TotalStation-Documentation)
 
 
 ## Contents
