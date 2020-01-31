@@ -23,9 +23,9 @@ If the GPS/GSM signal is no satisfactory and benchmarks are not available, try t
 
 You can measure trees in two separate processes: attribute and geometry gathering. Both can be conducted in any order, in a different time, and even from different TS position. By default, we recommend to, first, collect the attribute information and, second, the geometry. 
 
-Attribute gathering means collecting a single XYZ geometry point and some attributes (e.g., label, diameter, species, etc.). It is a relatively fast process; we expect no more than three minutes per tree. This can be done in either reflector or reflectorless mode, but we recommend to use the reflector with a tablet to input all information standing near a tree.  A detailed description of the attribute gathering is provided here Totalstation_Tree_Attribute.md.
+Attribute gathering means collecting a single XYZ geometry point and some attributes (e.g., label, diameter, species, etc.). It is a relatively fast process; we expect no more than three minutes per tree. This can be done in either reflector or reflectorless mode, but we recommend to use the reflector with a tablet to input all information standing near a tree.  A detailed description of the attribute gathering is provided [here](Totalstation_Tree_Attribute.md).
 
-Geometry gathering means working in the reflectorless mode for collecting several points on a tree from bottom to top. It provides us a skeleton of a tree.  A detailed description of the geometry gathering is provided here Totalstation_Tree_Geometry.md.
+Geometry gathering means working in the reflectorless mode for collecting several points on a tree from bottom to top. It provides us a skeleton of a tree.  A detailed description of the geometry gathering is provided [here](Totalstation_Tree_Geometry.md).
 
-The terrain can be reconstructed by combining the points collected in the reflector mode for the attribute gathering and extra points measuring specifically for the terrain surface. See detailed description here  Totalstation_Terrain.md. 
+The terrain can be reconstructed by combining the points collected in the reflector mode for the attribute gathering and extra points measuring specifically for the terrain surface. See detailed description [here](Totalstation_Terrain.md). 
 
