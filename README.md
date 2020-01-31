@@ -6,7 +6,7 @@ Access to the webpage: [nature40.github.io/GPS-TotalStation-Documentation](https
 ## Contents
 
 * [DGPS Rover](_docs/DGPS_Rover.md)
-* [DGPS Rover and Base](_docs/GPS_Rover_and_Base.md)
+* [DGPS Rover and Base](_docs/DGPS_Rover_and_Base.md)
 * [Total Station Set Up](_docs/Totalstation_Setup.md)
 * [Total Station and Rover (DGPS) Measurements](_docs/Totalstation_and_Rover_Survey.md)
 * [Tree and Terrain Measurement Concepts](_docs/Survey_Concepts_Tree_Terrain.md)
