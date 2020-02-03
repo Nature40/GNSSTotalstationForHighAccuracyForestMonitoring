@@ -8,7 +8,7 @@
         <meta name="apple-mobile-web-app-capable" content="yes">
         <link rel="stylesheet" href="css/leaflet.css">
         <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
-        <link rel="stylesheet" href="css/leaflet-control-geocoder.Geocoder.css">
+        <link rel="stylesheet" href="css/leaflet-search.css">
         <link rel="stylesheet" href="css/leaflet-measure.css">
         <style>
         html, body, #map {
@@ -32,8 +32,8 @@
         <script src="js/rbush.min.js"></script>
         <script src="js/labelgun.min.js"></script>
         <script src="js/labels.js"></script>
-        <script src="js/leaflet-control-geocoder.Geocoder.js"></script>
         <script src="js/leaflet-measure.js"></script>
+        <script src="js/leaflet-search.js"></script>
         <script src="data/mof_roads_0.js"></script>
         <script src="data/mof_area_1.js"></script>
         <script src="data/uav_area_2.js"></script>
@@ -46,7 +46,7 @@
         }
         var map = L.map('map', {
             zoomControl:true, maxZoom:28, minZoom:1
-        }).fitBounds([[50.83048516844879,8.658543251778058],[50.84582513519533,8.697219752693416]]);
+        })
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var measureControl = new L.Control.Measure({
@@ -63,6 +63,9 @@
         .className += ' fas fa-ruler';
         var bounds_group = new L.featureGroup([]);
         function setBounds() {
+            if (bounds_group.getLayers().length) {
+                map.fitBounds(bounds_group.getBounds());
+            }
         }
         function pop_mof_roads_0(feature, layer) {
             layer.on({
@@ -334,19 +337,16 @@
                 this._div.innerHTML = '<h2>Nature 40 Overview</h2>';
             };
             title.addTo(map);
-        var osmGeocoder = new L.Control.Geocoder({
-            collapsed: true,
-            position: 'topleft',
-            text: 'Search',
-            title: 'Testing'
-        }).addTo(map);
-        document.getElementsByClassName('leaflet-control-geocoder-icon')[0]
-        .className += ' fa fa-search';
-        document.getElementsByClassName('leaflet-control-geocoder-icon')[0]
-        .title += 'Search for a place';
         var baseMaps = {};
         L.control.layers(baseMaps,{'core_study_trees<br /><table><tr><td style="text-align: center;"><img src="legend/core_study_trees_3_BUR0.png" /></td><td>BUR</td></tr><tr><td style="text-align: center;"><img src="legend/core_study_trees_3_EIT1.png" /></td><td>EIT</td></tr></table>': layer_core_study_trees_3,'<img src="legend/uav_area_2.png" /> uav_area': layer_uav_area_2,'<img src="legend/mof_area_1.png" /> mof_area': layer_mof_area_1,'<img src="legend/mof_roads_0.png" /> mof_roads': layer_mof_roads_0,},{collapsed:false}).addTo(map);
         setBounds();
+        map.addControl(new L.Control.Search({
+            layer: layer_core_study_trees_3,
+            initial: false,
+            hideMarkerOnCollapse: true,
+            propertyName: 'treeID'}));
+        document.getElementsByClassName('search-button')[0].className +=
+         ' fa fa-binoculars';
         resetLabels([layer_uav_area_2]);
         map.on("zoomend", function(){
             resetLabels([layer_uav_area_2]);
