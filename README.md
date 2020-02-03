@@ -16,4 +16,4 @@ Access to the webpage: [nature40.github.io/GPS-TotalStation-Documentation](https
 
 A complete manual can be found [here](https://www.i3map.fr/fr/index.php?controller=attachment&id_attachment=31).
 
-This is created with [JEKILL](https://vsoch.github.io/docsy-jekyll/).
+This is created with [JEKYLL](https://vsoch.github.io/docsy-jekyll/).
