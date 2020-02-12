@@ -70,6 +70,9 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path
+  survey:
+    output: true
+    permalink: /:collection/:path
 
 # Defaults
 defaults:

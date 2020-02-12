@@ -1,8 +1,4 @@
-
-- title: Home
-  url: /
-
-- title: Documentation
+- title: Technical Tutorials
   url: docs
   links:
     - title: Geomax Zenith 35 DGPS
@@ -27,6 +23,16 @@
         - title: Tree attribut survey
           url: tree-attribut-survey
 
+- title: Survey
+  url: survey
+  links:
+    - title: Survey a new tree
+      url: tree-survey
+
+
+
 - title: Categories
   url: tags
+
+
 
