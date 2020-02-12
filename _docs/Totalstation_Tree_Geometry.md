@@ -2,6 +2,7 @@
 title:  "Totalstation tree measures reflectorless"
 layout: page
 permalink: /ts-tree-survey/
+tags: Survey Totalstation
 --- 
 
 

@@ -1,6 +1,7 @@
 ---
 title: Differential GPS Infos
 permalink: /dgpsinfo/
+tags: DGPS
 ---
 
 

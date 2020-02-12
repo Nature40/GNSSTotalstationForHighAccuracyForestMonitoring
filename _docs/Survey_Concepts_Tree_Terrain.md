@@ -2,6 +2,7 @@
 title:  "Survey Concepts for Tree and Terrain measures"
 layout: page
 permalink: /Survey-Concepts/
+tags: Survey
 --- 
 
 # Survey Concepts for Measuring with Total Station (TS)

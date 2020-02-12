@@ -3,14 +3,12 @@ title:  "Differential GPS in Rover only mode"
 layout: page
 permalink: /DGPS-Rover/
 categories: DGPS setup
-badges:
- - type: info
- - tag: tutorial
+tags: DGPS Tutorial
 ---
 
 
 
-# Tutorial: Differential GPS in Rover only mode
+# Differential GPS in Rover only mode
 
 
 ## Usage

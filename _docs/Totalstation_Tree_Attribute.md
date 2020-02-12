@@ -2,6 +2,7 @@
 title:  "Survey of tree attributes"
 layout: page
 permalink: /tree-attribut-survey/
+tags: Survey
 --- 
 
 # Tree attributes measures

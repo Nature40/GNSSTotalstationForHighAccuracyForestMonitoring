@@ -2,6 +2,7 @@
 title:  "Totalstation Setup"
 layout: page
 permalink: /Totalstation-Setup/
+tags: totalstation
 --- 
 
 

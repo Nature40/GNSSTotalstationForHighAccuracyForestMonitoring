@@ -1,6 +1,7 @@
 
 - title: Home
   url: /
+
 - title: Documentation
   url: docs
   links:
@@ -25,14 +26,7 @@
           url: ts-tree-survey
         - title: Tree attribut survey
           url: tree-attribut-survey
-- title: Misc
-  url: /
-  children:
-    - title: Tags Page
-      url: "tags"
-    - title: "About"
-      url: "about"
-    - title: "News"
-      url: "news"
 
+- title: Categories
+  url: tags
 
