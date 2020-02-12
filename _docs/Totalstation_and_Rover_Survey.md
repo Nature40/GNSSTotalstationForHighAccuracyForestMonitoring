@@ -2,11 +2,16 @@
 title:  "Totalstation setup with DGPS Rover"
 layout: page
 permalink: /Totalstation-Rover/
+description: Learn how to intialize measurements with the total station.
 --- 
 
 
 
 # Totalstation Setup with DGPS Rover
+
+To get startet with the measurements with the totalstation, you have to know the exact position of the station.
+For this, you can use the DGPS to identify exact positions of the prism reflector which you then measure with the totalstation.
+
 
 ## Connecting the equipment
 

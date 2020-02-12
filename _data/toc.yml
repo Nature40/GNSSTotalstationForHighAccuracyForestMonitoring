@@ -5,23 +5,26 @@
   url: docs
   links:
     - title: Geomax Zenith 35 DGPS
+      url: docs
       children:
         - title: Rover Mode
           url: DGPS-Rover
         - title: Rover and Base
           url: DGPS-Rover-Base  
     - title: Geomax Totalstation
+      url: docs
       children:
-      - title: Totalstation Setup
+      - title: Totalstation Assembly
         url: Totalstation-Setup
-      - title: Setup with DGPS Rover
+      - title: Totalstation Positioning
         url: Totalstation-Rover
-      - title: Totalstation Measures
-        url: Totalstation-Rover
-      - title: Totalstation Reflector
-        url: Totalstation-Reflector
-      - title: Totalstation Reflectorless
-        url: Totalstation-Reflectorless  
+    - title: Field Measurements
+      url: docs
+      children:
+        - title: Totalstation Tree survey
+          url: ts-tree-survey
+        - title: Tree attribut survey
+          url: tree-attribut-survey
 - title: Misc
   url: /
   children:

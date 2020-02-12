@@ -1,7 +1,7 @@
 ---
-title:  "Totalstation tree measures with reflector"
+title:  "Survey of tree attributes"
 layout: page
-permalink: /Totalstation-Reflector/
+permalink: /tree-attribut-survey/
 --- 
 
 # Tree attributes measures

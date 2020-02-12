@@ -1,7 +1,7 @@
 ---
 title:  "Totalstation tree measures reflectorless"
 layout: page
-permalink: /Totalstation-Reflectorless/
+permalink: /ts-tree-survey/
 --- 
 
 
