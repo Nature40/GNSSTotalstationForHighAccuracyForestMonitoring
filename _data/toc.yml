@@ -5,7 +5,7 @@
   url: docs
   links:
     - title: Geomax Zenith 35 DGPS
-      url: docs
+      url: dgpsinfo
       children:
         - title: Rover Mode
           url: DGPS-Rover

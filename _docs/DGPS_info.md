@@ -1,6 +1,6 @@
 ---
-title: General Information
-permalink: /generalinfo/
+title: Differential GPS Infos
+permalink: /dgpsinfo/
 ---
 
 
