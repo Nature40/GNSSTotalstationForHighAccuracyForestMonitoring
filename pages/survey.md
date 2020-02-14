@@ -4,7 +4,7 @@ title: Documentation Survey
 permalink: /survey/
 ---
 
-# Documentation
+# The Survey Collection
 
 Welcome to the {{ site.title }} Documentation pages! Here you can quickly jump to a 
 particular page.

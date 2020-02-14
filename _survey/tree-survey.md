@@ -2,6 +2,7 @@
 title: Survey a new tree
 layout: page
 permalink: /tree-survey/ 
+description: Which are the minimum parameters for the tree survey?
 ---
 
 
