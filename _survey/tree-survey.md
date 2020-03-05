@@ -5,16 +5,14 @@ permalink: /tree-survey/
 description: Which are the minimum parameters for the tree survey?
 ---
 
+# Required information and workflow when measuaring a new tree
 
-# Valid Markers
+## Valid Markers
 
 Give the tree a marker. To prevent confusion, markers have to be provided by Nature 40! DO NOT USE YOUR OWN MARKERS! 
 Use a aluminum nail (also provided in the container).
 
-
-# Survey a new tree
-
-### Minimum Required Information
+## Minimum Required Information
 
 * Marker Number
 * Marker Color
