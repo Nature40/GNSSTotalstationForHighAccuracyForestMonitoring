@@ -1,32 +1,32 @@
 ---
-title:  "Differential GPS in Rover only mode"
+title:  "GNSS in Rover only mode"
 layout: page
-permalink: /DGPS-Rover/
-categories: DGPS setup
-tags: DGPS Tutorial
+permalink: /GNSS-Rover/
+categories: GNSS setup
+tags: GNSS Tutorial
 ---
 
 
 
-# Differential GPS in Rover only mode
+# GNSS in Rover only mode
 
 
 ## Usage
 
-This tutorial covers the configuration of the Geomax Zenith35 Pro Differential GPS (DGPS) 
+This tutorial covers the configuration of the Geomax Zenith35 Pro GNSS 
 in Rover only mode. This mode can be used for open areas with good 
-GPS satellite and mobile signal (same as cellphone signal). With this 
-mode, both DGPS systems act independent making two devices available 
+GNSS and mobile signal (same as cellphone signal). With this 
+mode, both GNSS systems act independent making two devices available 
 for measurements. It is recommended to read the manual first and get 
 familiar with some terms (here) before you make actual field work.
 
 
 
-## Assembly of the GPS Rover
+## Assembly of the GNSS Rover
 
 #### Materials and Assembly
 
-* Differential GPS Head
+* GNSS Head
 * Battery (check charge, duration ca. 6h)
 * Mobile Antenna (Fig. 1)
 * Rod (the one without the silver top)
