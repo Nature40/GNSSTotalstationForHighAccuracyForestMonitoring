@@ -2,7 +2,7 @@
 title: Tree attributes 
 layout: page
 permalink: /tree-attributes/
-description: Documentation of tree attribute survey in the campaign 2020.
+description: Documentation of tree attribute survey.
 
 ---
 
