@@ -1,12 +1,12 @@
 ---
-title: Differential GPS Infos
-permalink: /dgpsinfo/
-tags: DGPS
+title: GNSS Infos
+permalink: /gnssinfo/
+tags: GNSS
 ---
 
 
 
-# Useful thoughts and terms for the DGPS
+# Useful thoughts and terms for GNSS
 
 
 
@@ -22,7 +22,7 @@ info](http://sapos.hvbg.hessen.de/refmap.php?detail=0453)).
 
 ## Making good measurements
 
-There are three quality modes of GPS measurements: _Autonomous, RTK Float 
+There are three quality modes of GNSS measurements: _Autonomous, RTK Float 
 and RTK Fix.
 
 
