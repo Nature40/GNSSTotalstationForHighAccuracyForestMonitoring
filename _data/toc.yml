@@ -1,37 +1,37 @@
 - title: Technical Tutorials
   url: docs
   links:
-    - title: Geomax Zenith 35 DGPS
-      url: dgpsinfo
-      children:
-        - title: Rover Mode
-          url: DGPS-Rover
-        - title: Rover and Base
-          url: DGPS-Rover-Base  
-    - title: Geomax Totalstation
+    - title: Equipment Setup
       url: docs
       children:
-      - title: Totalstation Assembly
-        url: Totalstation-Setup
-      - title: Totalstation Positioning
-        url: Totalstation-Rover
-    - title: Field Measurements
-      url: docs
+        - title: GNSS Info
+          url: GNSS_info
+        - title: GNSS Setup
+          url: GNSS_Rover            
+        - title: Totalstation Setup
+          url: Totalstation_Setup          
+        - title: Totalstation Positioning
+          url: Totalstation-Rover
+          
+    - title: Survey
+      url: Totalstation_and_Rover_Survey
       children:
-        - title: Totalstation Tree survey
-          url: ts-tree-survey
-        - title: Tree attribut survey
-          url: tree-attribut-survey
-
-- title: Survey
-  url: survey
-  links:
-    - title: Survey a new tree
+         - title: Concept for Tree and Terrain Measurements
+          url: Survey_Concepts_Tree_Terrain
+         - title: Terrain
+          url:  Totalstation_Terrain       
+      
+    - title: Tree Measurements
       url: tree-survey
-    - title: Survey Campaign 2020
-      url: tree-attributes
-
-
+      children:
+        - title: Geometry
+          url: Totalstation_Tree_Geometry
+          
+    - title: Tree Attributes
+      url: Totalstation_Tree_Attribute
+      children:
+          -title: Details
+           url: tree-attributes
 
 - title: Categories
   url: tags
