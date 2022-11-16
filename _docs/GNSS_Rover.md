@@ -37,16 +37,16 @@ familiar with some terms (here) before you make actual field work.
 *Fig.1: Antenna types*
 
 
-* Insert the battery into the GPS head
-* Assemble the shorter of both antennas at the UMTS Port on the GPS Head
+* Insert the battery into the GNSS head
+* Assemble the shorter of both antennas at the UMTS Port on the GNSS Head
 * Assebmle the head on the rod
-* Turn on the power of the GPS head
+* Turn on the power of the GNSS head
 * Start the tablet and the XPAD Software
 
 ![assets/img/head_antenna.png](../assets/img/head_antenna.png)
 ![assets/img/head_on_rod.png](../assets/img/head_on_rod.png)
 
-*Fig.2: DGPS Head with modile antenna in the UMTS Port and assembled DGPS Head on rod with fully charged battery pack*
+*Fig.2: GNSS Head with modile antenna in the UMTS Port and assembled GNSS Head on rod with fully charged battery pack*
 
 
 
@@ -67,7 +67,7 @@ control.
 There are 3 different configurations for the GPS Rover. _Zenith35PRO 
 Rover1_ and _Zenith35PRO Rover2_ are the ones for Rover only mode. 
 Which configuration you want denpends on the Device Number which you 
-find as a label on the DGPS Head. 
+find as a label on the GNSS Head. 
 
 * _Zenith35PRO Rover1_ is for Device 56
 * _Zenith35PRO Rover2_ is for Device 55
