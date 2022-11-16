@@ -1,14 +1,14 @@
 # Survey
-geomax-guide: Documentation on DGPS and Total Station
-Access to the webpage: [nature40.github.io/GPS-TotalStation-Documentation](https://nature40.github.io/GPS-TotalStation-Documentation)
+Nature 4.0: Documentation on GNSS and Total Station
+Access to the webpage: [nature40.github.io/GNSSTotalstationForHighAccuracyForestMonitoring](https://nature40.github.io/GNSSTotalstationForHighAccuracyForestMonitoring)
 
 
 ## Contents
 
-* [DGPS Rover](_docs/DGPS_Rover.md)
-* [DGPS Rover and Base](_docs/DGPS_Rover_and_Base.md)
+* [GNSS Rover](_docs/DGPS_Rover.md)
+* [GNSS Info](_docs/GNSS_info.md)
 * [Total Station Set Up](_docs/Totalstation_Setup.md)
-* [Total Station and Rover (DGPS) Measurements](_docs/Totalstation_and_Rover_Survey.md)
+* [Total Station and Rover (GNSS) Measurements](_docs/Totalstation_and_Rover_Survey.md)
 * [Tree and Terrain Measurement Concepts](_docs/Survey_Concepts_Tree_Terrain.md)
 * [Totalstation Tree Attributes](_docs/Totalstation_Tree_Attribute.md)
 * [Total Station Tree Geometry](_docs/Totalstation_Tree_Geometry.md)
