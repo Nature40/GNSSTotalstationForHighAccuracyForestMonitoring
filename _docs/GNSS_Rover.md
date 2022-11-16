@@ -64,7 +64,7 @@ control.
 
 #### Devices
 
-There are 3 different configurations for the GPS Rover. _Zenith35PRO 
+There are 3 different configurations for the GNSS Rover. _Zenith35PRO 
 Rover1_ and _Zenith35PRO Rover2_ are the ones for Rover only mode. 
 Which configuration you want denpends on the Device Number which you 
 find as a label on the GNSS Head. 
@@ -83,13 +83,6 @@ done, go back two times to get to the main menu again.
 ![devices02](../assets/img/screenshots/devices02.png)
 
 *Fig.4: Devices menu*
-
-
-### The GPS Menu
-
-
-### Survey a point
-
 
 
 
