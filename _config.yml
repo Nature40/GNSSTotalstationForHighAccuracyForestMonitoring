@@ -23,16 +23,16 @@ description: > # this means to ignore newlines until "baseurl:"
   for the Nature 4.0 field survey 2020.
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
-baseurl: "/GPS-TotalStation-Documentation" # the subpath of your site, e.g. /blog
+baseurl: "/GNSSTotalstationForHighAccuracyForestMonitoring" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
 url: "https://Nature40.github.io" # the base hostname & protocol for your site
-site_url: "https://Nature40.github.io/GPS-TotalStation-Documentation"
+site_url: "https://Nature40.github.io/GNSSTotalstationForHighAccuracyForestMonitoring"
 
 # Social (First three Required)
-repo: "https://github.com/Nature40/GPS-TotalStation-Documentation"
+repo: "https://github.com/Nature40/GNSSTotalstationForHighAccuracyForestMonitoring"
 github_user: "Nature40"
-github_repo: "GPS-TotalStation-Documentation"
+github_repo: "GNSSTotalstationForHighAccuracyForestMonitoring"
 
 
 # Should there be feedback buttons at the bottom of pages?
