@@ -5,7 +5,7 @@ Access to the webpage: [nature40.github.io/GNSSTotalstationForHighAccuracyForest
 
 ## Contents
 
-* [GNSS Rover](_docs/DGPS_Rover.md)
+* [GNSS Rover](_docs/GNSS_Rover.md)
 * [GNSS Info](_docs/GNSS_info.md)
 * [Total Station Set Up](_docs/Totalstation_Setup.md)
 * [Total Station and Rover (GNSS) Measurements](_docs/Totalstation_and_Rover_Survey.md)
