@@ -1,22 +1,22 @@
 ---
-title:  "Totalstation setup with DGPS Rover"
+title:  "Totalstation setup with GNSS Rover"
 layout: page
 permalink: /Totalstation-Rover/
-tags: Totalstation DGPS
+tags: Totalstation GNSS
 description: Learn how to intialize measurements with the total station.
 --- 
 
 
 
-# Totalstation Setup with DGPS Rover
+# Totalstation Setup with GNSS Rover
 
 To get startet with the measurements with the totalstation, you have to know the exact position of the station.
-For this, you can use the DGPS to identify exact positions of the prism reflector which you then measure with the totalstation.
+For this, you can use the GNSS to identify exact positions of the prism reflector which you then measure with the totalstation.
 
 
 ## Connecting the equipment
 
-Total station (TS or TPS) can be used with a single rover or rover-base DGPS combinations. The following describes the steps required for measuring terrain and trees in the Marburg Open Forest.
+Total station (TS or TPS) can be used with a single rover or rover-base GNSS combinations. The following describes the steps required for measuring terrain and trees in the Marburg Open Forest.
 
 * Start the X-Pad application
 
@@ -77,11 +77,11 @@ Total station (TS or TPS) can be used with a single rover or rover-base DGPS com
 
 ![ts_meas_Screenshot_2020-01-28-16-09-42.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-16-09-42.png)
 
-* Press the Unlock button and tap Lock, the TS should be pointed to the prisma with DGPS. Go back
+* Press the Unlock button and tap Lock, the TS should be pointed to the prisma with GNSS. Go back
 
 ![ts_meas_Screenshot_2020-01-28-16-10-05.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-16-10-05.png)
 
-* In the point field select measure and press the Measure button, select the required GPS device
+* In the point field select measure and press the Measure button, select the required GNSS device
 
 
 ![ts_meas_Screenshot_2020-01-28-16-12-22.png](../assets/img/screenshots/ts_meas_Screenshot_2020-01-28-16-12-22.png)
